@@ -8,6 +8,7 @@ S=$(mktemp -d); trap 'rm -rf "$S"' EXIT
 mkdir -p "$S/plugins" "$R/dist"
 cp "$R/package/manifest.json" "$R/package/icon.png" "$R/package/README.md" "$R/package/CHANGELOG.md" "$S/"
 cp "$R/build/Campfire.dll" "$S/plugins/"
+cp "$R/LICENSE" "$S/"
 cp -r "$R/package/loading" "$S/plugins/campfire-loading"   # the loading screen art
 rm -f "$R/dist/Jatify-Campfire-$V.zip"
 (cd "$S" && zip -qr -X "$R/dist/Jatify-Campfire-$V.zip" .)

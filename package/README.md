@@ -32,6 +32,7 @@ Every create, delete, move and restore is Valheim's own code. Before Valheim del
 
 ## Notes
 
+- Jatify UI already includes Campfire, so you need one or the other. If both are installed, this Campfire runs the character screen, the party at the fire and the loading screen, and Jatify UI leaves them to it.
 - Works with or without [Jatify UI](https://jatify.com): with it installed, Campfire has Jatify UI's exact look (its fonts, panels and colours); without it, the same layout in the design's own colours with Valheim's fonts. It needs no other UI mod.
 - Saved server passwords are kept encrypted in Valheim's own settings, with a key tied to your PC and Steam account: a copied settings file can't be read elsewhere. Other programs running on your PC could still read them, so it is not a password vault. Switch off **Remember on this PC** if that matters to you.
 - Other mods' panels on the character screen (for example ReportCard's stats) are hidden while it is open; they come back on the main menu.
@@ -40,6 +41,7 @@ Every create, delete, move and restore is Valheim's own code. Before Valheim del
 ## Credits
 
 - Interface: the Jatify design; with Jatify UI installed, its fonts, panels, colours and icons (none of its files are included). Titles and names use Valheim's own Norse font, descriptions its Averia Serif.
+- Loading art: Iron Gate's Valheim press kit.
 - Mod loader: [BepInEx](https://github.com/BepInEx/BepInEx).
 - Code: written together with Claude (Anthropic's AI), which shows up as a co-author in the commit history.
 
