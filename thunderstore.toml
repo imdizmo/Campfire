@@ -1,0 +1,20 @@
+[config]
+schemaVersion = "0.0.1"
+
+[package]
+namespace = "Jatify"
+name = "Campfire"
+versionNumber = "1.1.0"
+description = "WoW-style character select in the Jatify design: your characters at the fire, worlds and servers on one screen, saved server passwords, achievements, and every save change backed up first. Works with or without Jatify UI."
+websiteUrl = "https://github.com/imdizmo/Campfire"
+containsNsfwContent = false
+
+[package.dependencies]
+denikson-BepInExPack_Valheim = "5.4.2202"
+
+[publish]
+repository = "https://thunderstore.io"
+communities = ["valheim"]
+
+[publish.categories]
+valheim = ["client-side", "utility"]

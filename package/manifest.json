@@ -1,0 +1,9 @@
+{
+  "name": "Campfire",
+  "version_number": "1.1.0",
+  "website_url": "https://github.com/imdizmo/Campfire",
+  "description": "WoW-style character select in the Jatify design: your characters at the fire, worlds and servers on one screen, saved server passwords, achievements, and every save change backed up first. Works with or without Jatify UI.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2202"
+  ]
+}
