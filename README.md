@@ -43,6 +43,6 @@ Every create, delete, move and restore is Valheim's own code. Before Valheim del
 - Mod loader: [BepInEx](https://github.com/BepInEx/BepInEx).
 - Code: written together with Claude (Anthropic's AI), which shows up as a co-author in the commit history.
 
-Campfire is an unofficial, fan-made mod. It is not made, endorsed or supported by Iron Gate AB or Blizzard Entertainment. Please report Campfire bugs here. Valheim is a trademark of Iron Gate AB; World of Warcraft is a trademark of Blizzard Entertainment.
+Campfire is an unofficial, fan-made mod. It is not made, endorsed or supported by Iron Gate AB or Blizzard Entertainment. Please report Campfire bugs [on GitHub](https://github.com/imdizmo/Campfire/issues). Valheim is a trademark of Iron Gate AB; World of Warcraft is a trademark of Blizzard Entertainment.
 
 Source: https://github.com/imdizmo/Campfire (MIT; the MIT licence covers Campfire's own code only)
