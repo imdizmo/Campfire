@@ -1,5 +1,7 @@
 # Campfire
 
+[![Join the Discord](https://jatify.com/badges/discord.png)](https://discord.gg/Ru9t2KdfVK) [![Buy me a coffee](https://jatify.com/badges/coffee.png)](https://buymeacoffee.com/imdizmo)
+
 Valheim's character select, rebuilt in the Jatify design and laid out like World of Warcraft's: your characters stand around the fire, and worlds, servers and everything else live on the same screen. Client-side only; nothing is needed on the server.
 
 [Thunderstore](https://thunderstore.io/c/valheim/p/Jatify/Campfire/) · [GitHub](https://github.com/imdizmo/Campfire) · [jatify.com](https://jatify.com)
