@@ -4,7 +4,9 @@ Valheim's character select, rebuilt in the Jatify design and laid out like World
 
 [Thunderstore](https://thunderstore.io/c/valheim/p/Jatify/Campfire/) · [GitHub](https://github.com/imdizmo/Campfire) · [jatify.com](https://jatify.com)
 
-![The new character window at the campfire](https://raw.githubusercontent.com/imdizmo/Campfire/main/screenshots/new-character.webp)
+![The character screen: your characters at the fire, worlds on the left, characters on the right](https://raw.githubusercontent.com/imdizmo/JatifyUI/main/docs/img/charscreen.webp)
+
+> This screenshot is from [Jatify UI](https://thunderstore.io/c/valheim/p/Jatify/JatifyUI/), which includes Campfire. On its own, Campfire has the same layout in its own colours, with Valheim's fonts.
 
 ## The screen
 
